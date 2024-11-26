@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <sitemap>
+        <loc>https://doswtf.github.io/sitemap-hosting/products.xml</loc>
+        <lastmod>2024-11-26</lastmod>
+    </sitemap>
+    <sitemap>
+        <loc>https://doswtf.github.io/sitemap-hosting/Blogs.xml</loc>
+        <lastmod>2024-11-26</lastmod>
+    </sitemap>
+    <sitemap>
+        <loc>https://doswtf.github.io/sitemap-hosting/pages.xml</loc>
+        <lastmod>2024-11-26</lastmod>
+    </sitemap>
+    <sitemap>
+        <loc>https://doswtf.github.io/sitemap-hosting/collections.xml</loc>
+        <lastmod>2024-11-26</lastmod>
+    </sitemap>
+</sitemapindex>
